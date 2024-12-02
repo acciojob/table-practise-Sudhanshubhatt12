@@ -2,7 +2,7 @@
   table {
             width: 60%;
             margin: 20px auto;
-            background-color: yellow;
+            background-color: rgb(255, 255, 0);
             border-collapse: collapse;
         }
         caption {
@@ -12,10 +12,8 @@
             margin-bottom: 10px;
         }
         th, td {
-            border: 1px solid black;
+            border: 1px solid rgb(0, 0, 0);
             padding: 10px;
             text-align: center;
         }
-        th {
-            background-color: #f2d600;
-        }
+       
